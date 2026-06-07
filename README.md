@@ -1,4 +1,4 @@
-Optimized tool selection**Title**
+**Title**
 - **Project**: Simple Caesar cipher cracking lab
 
 **Description**
